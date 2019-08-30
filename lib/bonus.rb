@@ -22,6 +22,7 @@ def bonus
 
   #code your solution here:
   bonus[:montague][:hero][:status] = "dead"
+  puts bonus
 
 
 
